@@ -10,3 +10,5 @@ This guide aims to provide the necessary knowledge for cracking the trainers for
 - Understanding the mechanics of cracking the trainer
 
 As a result, you will be required to read and learn. This is not a straightforward one-click guide.<br/><br/>
+
+Next part of this guide: [link](#GettingStarted.md)
