@@ -84,3 +84,13 @@ As much as we'd like to claim victory and ride off into the sunset, there are a 
 So, while this method isn't without its quirks, it's still a powerful tool in your cracking arsenal.<br/>
 Just keep these downsides in mind and soldier on.<br/>
 After all, no great adventure is without its challenges.
+
+## Promised explanation
+In the 4th step of this guide, I promised to explain why the prepared response is set up the way it is. Here's a brief overview:
+
+1. `"ExpirationDate": "6969-01-01 0:00:00"`: Set to the first of the year 6969 because it's a very far away date that never fails.
+2. `"HardwareID": ""`: The HardwareID is set to null because the trainer interprets it as a new account, skipping the HWID check altogether.
+3. `"userCode": 1`: This is set to 1 because the app assumes you're just logging in again, skipping the need for waiting on an email.
+
+With these adjustments, you're effectively tricking the trainer into granting access without actually meeting its security requirements. <br/>
+Clever, huh?
