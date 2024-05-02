@@ -9,6 +9,6 @@ This guide aims to provide the necessary knowledge for cracking the trainers for
 - Using the trainers while paying 0 dollars,
 - Understanding the mechanics of cracking the trainer
 
-As a result, you will be required to read and learn. This is not a straightforward one-click guide.<br/><br/>
+As a result, you will be required to read and learn. This is not a straightforward one-click guide.<br/>
 
-Next part of this guide: [link](#GettingStarted.md)
+Next part of this guide: [link](GettingStarted.md)
